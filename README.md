@@ -44,7 +44,7 @@ JUnitLab/
 └── pom.xml
 # How to Run the Project
 Clone the repository:
-git clone 
+git clone https://github.com/Hamza-Ali-K/JUnit-tests.git
 Open the project in IntelliJ IDEA or Eclipse.
 Make sure Maven dependencies are installed.
 Run the test classes or test suite using JUnit.
